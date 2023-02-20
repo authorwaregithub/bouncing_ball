@@ -1,2 +1,2 @@
 # bouncing_ball
-Bouncing Ball Project
+Bouncing Ball Project For Pygame
