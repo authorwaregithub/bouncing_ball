@@ -6,7 +6,7 @@ pygame.init()
 # Resolution is ignored on Android
 surface = pygame.display.set_mode((640, 480))
 
-ball = pygame.image.load("pydroball.png")
+ball = pygame.image.load("")
 ballrect = ball.get_rect()
 clock = pygame.time.Clock()
 
