@@ -3,7 +3,6 @@ import pygame
 from pygame.locals import *
 
 pygame.init()
-# Resolution is ignored on Android
 surface = pygame.display.set_mode((640, 480))
 
 ball = pygame.image.load("ball.png")
